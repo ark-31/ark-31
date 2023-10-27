@@ -8,11 +8,11 @@ Welcome to my GitHub profile!
 - 🌱 I'm constantly learning and growing in [HTML & CSS].
 - 💬 Ask me about [HTML & CSS].
 - 📫 How to reach me: [absoluteruthlesskiller31@gmail.com] or [website:in production.].
-- ⚡ Fun fact: [LOVE THESE -- Animme , Manga , Webtoon , Light Novel/Web Novel , Manhwa/Manhua ].
+- ⚡ Fun fact: [LOVE THESE -- Anime , Manga , Webtoon , Light Novel/Web Novel , Manhwa/Manhua ].
 
 ## Get in Touch
 
-- LinkedIn: (https://linkedin.com/in/YourLinkedIn)
+- LinkedIn: (https://www.linkedin.com/in/tusher-rahman-940345298/))
 - Email:  (absoluteruthlesskiller31@gmail.com)
 - Website:(In production)
 
